@@ -1,0 +1,1156 @@
+.element {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element .div {
+  background-color: #000000;
+  overflow: hidden;
+  transition: all 0.2s ease;
+  width: 1920px;
+  height: 12500px;
+  position: relative;
+}
+
+.element .overlap {
+  position: absolute;
+  width: 1961px;
+  height: 1289px;
+  top: 0;
+  left: -21px;
+}
+
+.element .img {
+  width: 1920px;
+  height: 1200px;
+  top: 0;
+  left: 21px;
+  position: absolute;
+  object-fit: cover;
+  opacity: 0.6;
+}
+
+.element .rectangle {
+  position: absolute;
+  width: 1961px;
+  height: 434px;
+  top: 855px;
+  left: 0;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgb(0, 0, 0) 40%);
+}
+
+.element .p {
+  position: absolute;
+  width: 1556px;
+  top: 398px;
+  left: 203px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: -1.44px;
+  line-height: 57.6px;
+}
+
+.element .text-wrapper {
+  letter-spacing: -0.69px;
+}
+
+.element .title {
+  font-size: 128px;
+  letter-spacing: -4.92px;
+  line-height: 153.6px;
+}
+
+.element .overlap-group {
+  position: absolute;
+  width: 1950px;
+  height: 1329px;
+  top: 1380px;
+  left: -15px;
+}
+
+.element .overlap-2 {
+  position: absolute;
+  width: 1950px;
+  height: 1328px;
+  top: 1px;
+  left: 0;
+}
+
+.element .rectangle-2 {
+  position: absolute;
+  width: 1920px;
+  height: 1007px;
+  top: 321px;
+  left: 15px;
+  background-color: #403030;
+}
+
+.element .rectangle-3 {
+  position: absolute;
+  width: 995px;
+  height: 571px;
+  top: 466px;
+  left: 955px;
+  background-color: #a05b5b;
+}
+
+.element .rectangle-4 {
+  position: absolute;
+  width: 501px;
+  height: 335px;
+  top: 993px;
+  left: 0;
+  background-color: #a05b5b;
+}
+
+.element .rectangle-5 {
+  position: absolute;
+  width: 695px;
+  height: 507px;
+  top: 0;
+  left: 151px;
+  background-color: #a05b5b;
+}
+
+.element .img-2 {
+  width: 665px;
+  height: 477px;
+  top: 15px;
+  left: 166px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .img-3 {
+  width: 965px;
+  height: 541px;
+  top: 481px;
+  left: 970px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .img-4 {
+  position: absolute;
+  width: 471px;
+  height: 320px;
+  top: 1008px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.element .text-wrapper-2 {
+  position: absolute;
+  width: 578px;
+  top: 625px;
+  left: 205px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: -1.08px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .div-2 {
+  position: absolute;
+  width: 698px;
+  top: 738px;
+  left: 205px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.6px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-3 {
+  letter-spacing: -0.12px;
+  line-height: 16px;
+}
+
+.element .text-wrapper-4 {
+  letter-spacing: -0.12px;
+  line-height: 10px;
+}
+
+.element .text-wrapper-5 {
+  letter-spacing: -0.12px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-6 {
+  letter-spacing: -0.12px;
+  line-height: 40px;
+}
+
+.element .element-h {
+  position: absolute;
+  width: 1166px;
+  top: 1102px;
+  left: 701px;
+  color: #ffffff;
+  letter-spacing: -0.6px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-7 {
+  letter-spacing: -0.12px;
+  line-height: 24px;
+}
+
+.element .vector {
+  position: absolute;
+  width: 445px;
+  height: 5px;
+  top: 690px;
+  left: 205px;
+}
+
+.element .overlap-3 {
+  position: absolute;
+  width: 962px;
+  height: 165px;
+  top: 0;
+  left: 927px;
+}
+
+.element .text-wrapper-8 {
+  position: absolute;
+  width: 962px;
+  top: 0;
+  left: 0;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .vector-2 {
+  position: absolute;
+  width: 887px;
+  height: 5px;
+  top: 122px;
+  left: 0;
+}
+
+.element .overlap-4 {
+  position: absolute;
+  width: 1952px;
+  height: 1426px;
+  top: 3838px;
+  left: -15px;
+}
+
+.element .img-5 {
+  width: 1920px;
+  height: 1190px;
+  top: 236px;
+  left: 15px;
+  position: absolute;
+  object-fit: cover;
+  opacity: 0.6;
+}
+
+.element .div-3 {
+  position: absolute;
+  width: 936px;
+  top: 1247px;
+  left: 412px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-9 {
+  letter-spacing: 0;
+  line-height: 10px;
+}
+
+.element .text-wrapper-10 {
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.element .element-km-h {
+  position: absolute;
+  width: 941px;
+  top: 1112px;
+  left: 412px;
+  color: transparent;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-11 {
+  color: #ffffff;
+  letter-spacing: -0.12px;
+  line-height: 24px;
+}
+
+.element .text-wrapper-12 {
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: 10px;
+}
+
+.element .text-wrapper-13 {
+  color: #ff0015;
+  letter-spacing: -0.12px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-14 {
+  color: #ffffff;
+  letter-spacing: -0.12px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-15 {
+  line-height: 24px;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.element .rectangle-6 {
+  position: absolute;
+  width: 1027px;
+  height: 589px;
+  top: 445px;
+  left: 0;
+  background-color: #919191;
+}
+
+.element .rectangle-7 {
+  position: absolute;
+  width: 356px;
+  height: 365px;
+  top: 1061px;
+  left: 1596px;
+  background-color: #919191;
+}
+
+.element .rectangle-8 {
+  position: absolute;
+  width: 654px;
+  height: 472px;
+  top: 0;
+  left: 1114px;
+  background-color: #919191;
+}
+
+.element .img-6 {
+  position: absolute;
+  width: 624px;
+  height: 442px;
+  top: 15px;
+  left: 1129px;
+  object-fit: cover;
+}
+
+.element .img-7 {
+  width: 324px;
+  height: 350px;
+  top: 1076px;
+  left: 1611px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .img-8 {
+  width: 997px;
+  height: 559px;
+  top: 460px;
+  left: 15px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .frame {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 22px;
+  padding: 30px;
+  top: 595px;
+  left: 1114px;
+  border-radius: 18px;
+  flex-direction: column;
+  position: absolute;
+  background-color: #000000a6;
+}
+
+.element .text-wrapper-16 {
+  position: relative;
+  width: 596px;
+  margin-top: -1px;
+  font-family: "Pretendard-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: -1.08px;
+  line-height: normal;
+}
+
+.element .vector-3 {
+  position: relative;
+  width: 596px;
+  height: 1px;
+  object-fit: cover;
+}
+
+.element .div-4 {
+  position: relative;
+  width: 570px;
+  height: 201px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-17 {
+  color: #ffffff;
+  letter-spacing: -0.12px;
+  line-height: 10px;
+}
+
+.element .text-wrapper-18 {
+  color: #ff0000;
+  letter-spacing: -0.12px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-19 {
+  line-height: 16px;
+  color: #ffffff;
+  letter-spacing: 0;
+}
+
+.element .text-wrapper-20 {
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.element .output-wrapper {
+  position: absolute;
+  width: 722px;
+  height: 481px;
+  top: 2981px;
+  left: 311px;
+  background-color: #919191;
+}
+
+.element .output {
+  position: absolute;
+  width: 692px;
+  height: 451px;
+  top: 15px;
+  left: 15px;
+  object-fit: cover;
+}
+
+.element .text-wrapper-21 {
+  position: absolute;
+  width: 609px;
+  top: 2980px;
+  left: 1088px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffd400;
+  font-size: 36px;
+  letter-spacing: -1.08px;
+  line-height: normal;
+}
+
+.element .div-5 {
+  position: absolute;
+  width: 588px;
+  top: 3103px;
+  left: 1092px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: -0.6px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-22 {
+  color: #ffffff;
+  letter-spacing: -0.12px;
+}
+
+.element .text-wrapper-23 {
+  color: #ff4800;
+  letter-spacing: -0.12px;
+}
+
+.element .overlap-5 {
+  position: absolute;
+  width: 1917px;
+  height: 1354px;
+  top: 5858px;
+  left: 3px;
+}
+
+.element .img123 {
+  position: absolute;
+  width: 1917px;
+  height: 1273px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  opacity: 0.5;
+}
+
+.element .rectangle-9 {
+  position: absolute;
+  width: 1220px;
+  height: 1011px;
+  top: 343px;
+  left: 347px;
+  background-color: #000000;
+  border-radius: 35px;
+  opacity: 0.65;
+}
+
+.element .output-2 {
+  position: absolute;
+  width: 1043px;
+  height: 432px;
+  top: 397px;
+  left: 436px;
+  object-fit: cover;
+}
+
+.element .div-6 {
+  position: absolute;
+  width: 513px;
+  top: 872px;
+  left: 435px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-24 {
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: -0.27px;
+}
+
+.element .text-wrapper-25 {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: -0.17px;
+}
+
+.element .text-wrapper-26 {
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.12px;
+}
+
+.element .text-wrapper-27 {
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ff0015;
+  font-size: 20px;
+  letter-spacing: -0.12px;
+}
+
+.element .div-7 {
+  position: absolute;
+  width: 497px;
+  top: 872px;
+  left: 973px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: 30px;
+}
+
+.element .div-8 {
+  position: absolute;
+  width: 1380px;
+  top: 7289px;
+  left: 271px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: -1.08px;
+  line-height: 36px;
+}
+
+.element .text-wrapper-28 {
+  font-weight: 700;
+  color: #ffd400;
+  letter-spacing: -0.39px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-29 {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: -0.04px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-30 {
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: -0.31px;
+  line-height: 42px;
+}
+
+.element .overlap-group-2 {
+  position: absolute;
+  width: 1920px;
+  height: 3151px;
+  top: 8179px;
+  left: 0;
+}
+
+.element .img-9 {
+  position: absolute;
+  width: 1920px;
+  height: 1407px;
+  top: 1237px;
+  left: 0;
+  object-fit: cover;
+}
+
+.element .img-10 {
+  position: absolute;
+  width: 1915px;
+  height: 1241px;
+  top: 0;
+  left: 5px;
+  object-fit: cover;
+}
+
+.element .union {
+  position: absolute;
+  width: 1363px;
+  height: 2606px;
+  top: 395px;
+  left: 0;
+}
+
+.element .rectangle-10 {
+  position: absolute;
+  width: 905px;
+  height: 504px;
+  top: 145px;
+  left: 861px;
+  background-color: #d9d9d9;
+}
+
+.element .frame-2 {
+  display: flex;
+  width: 505px;
+  height: 914px;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 40px 30px 44px;
+  top: 145px;
+  left: 325px;
+  border-radius: 35px;
+  flex-direction: column;
+  position: absolute;
+  background-color: #000000a6;
+}
+
+.element .div-9 {
+  position: relative;
+  width: 445px;
+  height: 340px;
+  margin-top: -1px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-31 {
+  font-weight: 700;
+  letter-spacing: -0.27px;
+  line-height: 15px;
+}
+
+.element .text-wrapper-32 {
+  font-weight: 700;
+  letter-spacing: -0.27px;
+}
+
+.element .text-wrapper-33 {
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.12px;
+}
+
+.element .text-wrapper-34 {
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  letter-spacing: -0.12px;
+  line-height: 10px;
+}
+
+.element .div-10 {
+  position: relative;
+  width: 445px;
+  height: 336px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: 30px;
+}
+
+.element .rectangle-11 {
+  position: absolute;
+  width: 785px;
+  height: 454px;
+  top: 952px;
+  left: 261px;
+  background-color: #d9d9d9;
+}
+
+.element .img-11 {
+  position: absolute;
+  width: 875px;
+  height: 474px;
+  top: 160px;
+  left: 876px;
+  object-fit: cover;
+}
+
+.element .img-12 {
+  width: 755px;
+  height: 424px;
+  top: 967px;
+  left: 276px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .frame-3 {
+  display: flex;
+  width: 637px;
+  height: 879px;
+  align-items: flex-end;
+  gap: 22px;
+  padding: 40px 30px 27px;
+  top: 1718px;
+  left: 254px;
+  border-radius: 35px;
+  flex-direction: column;
+  position: absolute;
+  background-color: #000000a6;
+}
+
+.element .text-wrapper-35 {
+  position: relative;
+  align-self: stretch;
+  height: 23px;
+  margin-top: -1px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .suburbanization {
+  position: relative;
+  align-self: stretch;
+  height: 365px;
+  color: #ffffff;
+  letter-spacing: -0.6px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-36 {
+  letter-spacing: -0.12px;
+}
+
+.element .EV {
+  position: relative;
+  align-self: stretch;
+  height: 232px;
+  color: #ffffff;
+  letter-spacing: -0.6px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .rectangle-12 {
+  position: absolute;
+  width: 824px;
+  height: 484px;
+  top: 2424px;
+  left: 166px;
+  background-color: #d9d9d9;
+}
+
+.element .frame-4 {
+  display: flex;
+  width: 637px;
+  height: 846px;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 40px 30px 33px;
+  top: 952px;
+  left: 1093px;
+  border-radius: 35px;
+  flex-direction: column;
+  position: absolute;
+  background-color: #000000a6;
+}
+
+.element .div-11 {
+  position: relative;
+  width: 584px;
+  height: 156px;
+  margin-top: -1px;
+  margin-right: -7px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: 30px;
+}
+
+.element .div-12 {
+  position: relative;
+  width: 584px;
+  height: 416px;
+  margin-right: -7px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: 30px;
+}
+
+.element .text-wrapper-37 {
+  font-weight: 700;
+  letter-spacing: -0.27px;
+  line-height: 20px;
+}
+
+.element .img-13 {
+  width: 794px;
+  height: 454px;
+  top: 2439px;
+  left: 181px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .rectangle-13 {
+  position: absolute;
+  width: 825px;
+  height: 478px;
+  top: 1722px;
+  left: 961px;
+  background-color: #d9d9d9;
+}
+
+.element .frame-5 {
+  display: flex;
+  width: 637px;
+  height: 729px;
+  align-items: flex-start;
+  gap: 22px;
+  padding: 40px 30px 23px;
+  top: 2422px;
+  left: 1089px;
+  border-radius: 35px;
+  flex-direction: column;
+  position: absolute;
+  background-color: #000000a6;
+}
+
+.element .text-wrapper-38 {
+  position: relative;
+  align-self: stretch;
+  margin-top: -1px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: -0.9px;
+  line-height: normal;
+}
+
+.element .div-13 {
+  position: relative;
+  align-self: stretch;
+  height: 312px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: -0.6px;
+  line-height: 20px;
+}
+
+.element .text-wrapper-39 {
+  letter-spacing: -0.12px;
+  line-height: 5px;
+}
+
+.element .e-g-TGV {
+  position: relative;
+  align-self: stretch;
+  height: 295px;
+  margin-bottom: -20px;
+  color: #ffffff;
+  letter-spacing: -0.6px;
+  font-family: "Pretendard Variable-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.element .img-14 {
+  width: 795px;
+  height: 448px;
+  top: 1737px;
+  left: 976px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element .vector-4 {
+  position: absolute;
+  width: 581px;
+  height: 1px;
+  top: 1040px;
+  left: 1121px;
+  object-fit: cover;
+}
+
+.element .vector-5 {
+  position: absolute;
+  width: 445px;
+  height: 1px;
+  top: 226px;
+  left: 355px;
+  object-fit: cover;
+}
+
+.element .vector-6 {
+  position: absolute;
+  width: 570px;
+  height: 1px;
+  top: 1810px;
+  left: 288px;
+  object-fit: cover;
+}
+
+.element .vector-7 {
+  position: absolute;
+  width: 570px;
+  height: 1px;
+  top: 2506px;
+  left: 1119px;
+  object-fit: cover;
+}
+
+.element .overlap-6 {
+  position: absolute;
+  width: 1130px;
+  height: 545px;
+  top: 5295px;
+  left: 313px;
+}
+
+.element .text-wrapper-40 {
+  position: absolute;
+  width: 675px;
+  top: 387px;
+  left: 323px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .ellipse {
+  top: 301px;
+  left: 610px;
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  background-color: #d9d9d9;
+  border-radius: 23px;
+}
+
+.element .ellipse-2 {
+  top: 301px;
+  left: 665px;
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  background-color: #d9d9d9;
+  border-radius: 23px;
+}
+
+.element .vector-8 {
+  position: absolute;
+  width: 1130px;
+  height: 545px;
+  top: 0;
+  left: 0;
+}
+
+.element .overlap-7 {
+  position: absolute;
+  width: 952px;
+  height: 652px;
+  top: 7497px;
+  left: 361px;
+}
+
+.element .text-wrapper-41 {
+  position: absolute;
+  width: 675px;
+  top: 466px;
+  left: 277px;
+  font-family: "Pretendard Variable-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.element .ellipse-3 {
+  top: 380px;
+  left: 564px;
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  background-color: #d9d9d9;
+  border-radius: 23px;
+}
+
+.element .ellipse-4 {
+  top: 380px;
+  left: 619px;
+  position: absolute;
+  width: 46px;
+  height: 46px;
+  background-color: #d9d9d9;
+  border-radius: 23px;
+}
+
+.element .vector-9 {
+  position: absolute;
+  width: 889px;
+  height: 652px;
+  top: 0;
+  left: 0;
+}
+
+.element .vector-10 {
+  position: absolute;
+  width: 623px;
+  height: 2px;
+  top: 3061px;
+  left: 1092px;
+}
+
+.element .vector-11 {
+  position: absolute;
+  width: 777px;
+  height: 231px;
+  top: 2726px;
+  left: 426px;
+}
+
+.element .vector-12 {
+  position: absolute;
+  width: 1070px;
+  height: 334px;
+  top: 3480px;
+  left: 430px;
+}
+
+.element .text-wrapper-42 {
+  position: absolute;
+  width: 1082px;
+  height: 36px;
+  top: 12411px;
+  left: 447px;
+  font-family: "Noto Sans KR-DemiLight", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element .vector-13 {
+  position: absolute;
+  width: 496px;
+  height: 1px;
+  top: 5341px;
+  left: -4058px;
+  object-fit: cover;
+}
